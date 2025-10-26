@@ -1,0 +1,9 @@
+
+OPEN ANACONDA PROMPT
+
+GO TO DIRECTORY CONTAINING app.py
+
+EXECUTE COMAND : python app.py runserver
+
+YOUR PROJECT WILL BE RUNNING ON localhost port 5000
+"http://127.0.0.1:5000/"
